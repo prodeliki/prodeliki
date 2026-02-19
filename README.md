@@ -1,4 +1,4 @@
 # Welcome to my GitHub profile
 
 
-https://prodeliki.github.io/profeliki/
+https://prodeliki.github.io/prodeliki/
